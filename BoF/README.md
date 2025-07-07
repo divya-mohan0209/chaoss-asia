@@ -13,7 +13,7 @@ This is being piloted in the Asian chapter of the CHAOSS project.
 
 The CHAOSS BoF framework is designed to help any conference organisers implement a semi-structured discussion session focused on measurement and visualisation of open source health metrics. Conference organisers are welcome to use the BoF template and adapt this framework to their specific needs. 
 
-Please ensure you follow the CHAOSS Foundation Code Of Conduct
+Please ensure you follow the [CHAOSS Code of Conduct](https://github.com/chaoss/chaoss-asia?tab=coc-ov-file)
 
 To implement this framework, follow these steps:
 
